@@ -1,0 +1,148 @@
+body{
+    background-color: gray;
+}
+.main{
+    background-image: url(img/bagr.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.nav{
+    margin-left: 50px;
+    color: red;
+    display: flex;
+    justify-content: space-between;
+}
+.sig{
+    color: white;
+   margin-right: 60px;
+    background-color: red;
+}
+.maintext{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+}
+.centext{
+    
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    height: 20vh;
+    width: 30vh;
+}
+a{
+    color:white;
+    background-color: red;
+    text-decoration: none;
+}
+.main1{
+    height: 25em;
+    margin-top: 10px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.child {
+    font-size: 20px;
+    color: white;
+    margin-left: 10em;
+    margin-top: 4em;
+}
+.child1{
+    margin-right: 10em;
+    margin-top: 2em;
+    
+}
+.per{
+    height: 25em;
+    background-color: black;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.one{
+    font-size: 20px;
+    color: white;
+    margin-left: 15em;
+    margin-top: 2em;
+}
+.bag1{
+    margin-top: 5em;
+}
+.per1{
+    display: flex;
+    margin-top: 10px;
+    height: 20em;
+    background-color: black;
+}
+.two{
+    font-size: 20px;
+    color: white;
+    margin-left: 10em;
+    margin-top: 2em;
+}
+.per2{
+    height: 25em;
+    background-color: black;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.three{
+    font-size: 20px;
+    color: white;
+    margin-left: 15em;
+    margin-top: 5em;
+}
+.kids{
+    margin-top: 5em;
+
+}
+.frq{
+    color: white;
+    font-size: 20px;
+    background-color: black;
+    margin: 5px auto;
+    padding: 2%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.ques{
+    width: 80%;
+    background-color: rgb(40,40, 40);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px ;
+    margin: 0.3%;
+    color: white;
+    
+}
+.six{
+    color: white;
+    background-color: red;
+    text-decoration: none;
+}
+.foot{
+    align-items: center;
+    height: 50vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+li{
+    list-style: none;
+}
+.eng{
+    border: none;
+    margin-top: 2em;
+    background-color: black;
+    color: white;
+}
+.net{
+    margin-top: 3em;
+}
